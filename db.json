@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Test Ramen",
+      "restaurant": "Tatsu-Ya",
+      "image": "https://cdn.pixabay.com/photo/2018/03/15/10/33/bars-ramen-in-saigon-3227779_960_720.jpg",
+      "rating": "10",
+      "comment": "try again",
+      "id": 6
+    },
+    {
+      "name": "Woody",
+      "restaurant": "Tatsu-Ya",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "rating": "2",
+      "comment": "n/a",
+      "id": 7
+    },
+    {
+      "name": "Woody",
+      "restaurant": "Tatsu-Ya",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "rating": "1",
+      "comment": "hello",
+      "id": 8
     }
   ]
 }
